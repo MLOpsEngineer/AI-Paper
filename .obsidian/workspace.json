@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "fa39518057078882",
+    "type": "split",
+    "children": [
+      {
+        "id": "3933824346218b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c747176936c495ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "443517fe817657a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c1c0d006634af1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5e2a2177a242af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae57d6f498155433",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1ea51e16374254d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46caa959975273cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a69e55a637a780f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4648f3a3ddd12d7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c87be51a18ab93d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "104e74135ab47e7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0321199d585e8e61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c747176936c495ec",
+  "lastOpenFiles": [
+    "LORA LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS/LORA 논문 추가 설명.md",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-1.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-2.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image.png",
+    "Model.md",
+    "Lora.md",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-9.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-8.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-7.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-6.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-5.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-4.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-3.png",
+    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs",
+    "무제 파일.md",
+    "Lora/images/page9_table1.csv",
+    "Lora/images/page8_table2.csv",
+    "Lora/images/page8_table1.csv",
+    "Lora/images/page7_table2.csv",
+    "Lora/images/page7_table1.csv",
+    "Lora/images/page6_table1.csv",
+    "Lora/images/page5_table1.csv",
+    "Lora/images/page4_table1.csv",
+    "Lora/images/page3_table1.csv"
+  ]
+}
