@@ -4,22 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "3933824346218b2a",
+        "id": "299df8210dbf5435",
         "type": "tabs",
         "children": [
           {
-            "id": "c747176936c495ec",
+            "id": "5ec14e79f94fb7bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
+                "file": "Embedding/Ratary Embedding.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ratary Embedding"
+            }
+          },
+          {
+            "id": "5e13b62c8a0773c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥러닝 이론/Validation 데이터의 목적.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Validation 데이터의 목적"
+            }
+          },
+          {
+            "id": "b5b2e125fa9b7927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "딥러닝 이론/Loss와 Evaluation Metric의 차이.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loss와 Evaluation Metric의 차이"
+            }
+          },
+          {
+            "id": "c9ba8d6534caee61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "논문/LLM Pruning and Distillation in Practice- The Minitron Approach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM Pruning and Distillation in Practice- The Minitron Approach"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -39,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +143,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -102,10 +154,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -116,7 +169,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           }
         ]
@@ -143,18 +198,29 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "math-indicator-changer:Change math indicator": false
     }
   },
-  "active": "c747176936c495ec",
+  "active": "c9ba8d6534caee61",
   "lastOpenFiles": [
+    "논문/무제 파일.md",
+    "논문/LLM Pruning and Distillation in Practice- The Minitron Approach.md",
+    "논문/Lora.md",
+    "논문",
+    "딥러닝 이론/Loss와 Evaluation Metric의 차이.md",
+    "딥러닝 이론/Validation 데이터의 목적.md",
+    "Embedding/Ratary Embedding.md",
+    "딥러닝 이론",
+    "논문/Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
+    "무제 파일.canvas",
+    "Model.md",
+    "Embedding",
     "LORA LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS/LORA 논문 추가 설명.md",
-    "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs.md",
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-1.png",
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-2.png",
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image.png",
-    "Model.md",
-    "Lora.md",
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-9.png",
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-8.png",
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-7.png",
@@ -163,15 +229,11 @@
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-4.png",
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs/image-3.png",
     "Model Tells You What to Discard- Adaptive KV Cache Compression for LLMs",
-    "무제 파일.md",
-    "Lora/images/page9_table1.csv",
-    "Lora/images/page8_table2.csv",
-    "Lora/images/page8_table1.csv",
-    "Lora/images/page7_table2.csv",
-    "Lora/images/page7_table1.csv",
-    "Lora/images/page6_table1.csv",
-    "Lora/images/page5_table1.csv",
-    "Lora/images/page4_table1.csv",
-    "Lora/images/page3_table1.csv"
+    "논문/images/page9_table1.csv",
+    "논문/images/page8_table2.csv",
+    "논문/images/page8_table1.csv",
+    "논문/images/page7_table2.csv",
+    "논문/images/page7_table1.csv",
+    "논문/images/page6_table1.csv"
   ]
 }
