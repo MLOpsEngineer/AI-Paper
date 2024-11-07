@@ -1,6 +1,4 @@
 
-# LLM Pruning and Distillation in Practice: The Minitron Approach
-
 Sharath Turuvekere Sreenivas*, Saurav Muralidharan*, Raviraj Joshi, Marcin Chochowski, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro, Jan Kautz and Pavlo Molchanov
 
 ## 초록
